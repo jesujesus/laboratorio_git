@@ -1,0 +1,17 @@
+Los modelos de IA son programas entrenados con grandes cantidades de datos para reconocer patrones, hacer predicciones y tomar decisiones de forma autónoma, imitando la inteligencia humana en tareas específicas. Existen varios tipos, como los supervisados (con datos etiquetados), no supervisados (buscan patrones ocultos), y por refuerzo (aprenden por ensayo y error). Modelos populares incluyen las redes neuronales, que simulan el cerebro para tareas complejas, y modelos fundacionales preentrenados que se pueden ajustar para necesidades específicas, como los chatbots o generación de texto e imágenes.  
+¿Cómo funcionan?
+Entrenamiento: Se alimentan de datos (imágenes, texto, números) para aprender a identificar relaciones y estructuras. 
+Algoritmos: Utilizan algoritmos (como redes neuronales) para procesar la información y ajustar sus parámetros. 
+Predicción/Decisión: Una vez entrenados, aplican lo aprendido a datos nuevos para generar resultados. 
+Tipos comunes de modelos de IA
+Supervisados: Aprenden de ejemplos con respuestas correctas (ej. clasificar correos como spam/no spam). 
+No Supervisados: Encuentran patrones en datos sin etiquetar (ej. segmentación de clientes). 
+Aprendizaje por Refuerzo: Aprenden a través de recompensas y castigos (ej. juegos, robótica). 
+Redes Neuronales: Inspiradas en el cerebro, con capas de nodos interconectados, excelentes para visión y lenguaje. 
+Modelos Fundacionales (Preentrenados): Grandes modelos (como GPT) entrenados en cantidades masivas de datos, que sirven de base para tareas específicas. 
+Ejemplos de aplicaciones
+Chatbots: Para conversaciones y respuestas automáticas.
+Procesamiento de Lenguaje Natural (PLN): Entender y generar texto.
+Visión por Computadora: Reconocimiento facial, análisis de imágenes médicas.
+Recomendaciones: Sugerir productos o contenido (Netflix, Amazon).
+Generación de contenido: Crear imágenes, música o texto (modelos generativos). 
