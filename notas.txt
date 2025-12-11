@@ -14,4 +14,37 @@ Chatbots: Para conversaciones y respuestas automáticas.
 Procesamiento de Lenguaje Natural (PLN): Entender y generar texto.
 Visión por Computadora: Reconocimiento facial, análisis de imágenes médicas.
 Recomendaciones: Sugerir productos o contenido (Netflix, Amazon).
-Generación de contenido: Crear imágenes, música o texto (modelos generativos). 
+Generación de contenido: Crear imágenes, música o te
+
+
+
+
+
+
+xto (modelos generativos). 
+
+  ____ _ _      ____      _     _     
+ / ___(_) |_   / ___|__ _| |__ | | ___ 
+| |  _| | __| | |  _ / _` | '_ \| |/ _ \
+| |_| | | |_  | |_| | (_| | |_) | |  __/
+ \____|_|\__|  \____|\__,_|_.__/|_|\___|
+  ____ _ _      ____      _     _     
+ / ___(_) |_   / ___|__ _| |__ | | ___ 
+| |  _| | __| | |  _ / _` | '_ \| |/ _ \
+| |_| | | |_  | |_| | (_| | |_) | |  __/
+ \____|_|\__|  \____|\__,_|_.__/|_|\___|
+  ____ _ _      ____      _     _     
+ / ___(_) |_   / ___|__ _| |__ | | ___ 
+| |  _| | __| | |  _ / _` | '_ \| |/ _ \
+| |_| | | |_  | |_| | (_| | |_) | |  __/
+ \____|_|\__|  \____|\__,_|_.__/|_|\___|
+  ____ _ _      ____      _     _     
+ / ___(_) |_   / ___|__ _| |__ | | ___ 
+| |  _| | __| | |  _ / _` | '_ \| |/ _ \
+| |_| | | |_  | |_| | (_| | |_) | |  __/
+ \____|_|\__|  \____|\__,_|_.__/|_|\___|
+  ____ _ _      ____      _     _     
+ / ___(_) |_   / ___|__ _| |__ | | ___ 
+| |  _| | __| | |  _ / _` | '_ \| |/ _ \
+| |_| | | |_  | |_| | (_| | |_) | |  __/
+ \____|_|\__|  \____|\__,_|_.__/|_|\___|
